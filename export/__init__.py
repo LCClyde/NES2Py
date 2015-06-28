@@ -21,3 +21,8 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER         #
 # DEALINGS IN THE SOFTWARE.                                                   #
 ###############################################################################
+"""
+The export module is used disassembly a nes rom. This is performed
+at a low level and every case will need to be manually cleaned
+up with more specific module.
+"""
